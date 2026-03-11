@@ -1,102 +1,134 @@
-<h1 align="center">Henrique Furtado | Computer Science Student</h1>
+<h1 align="center">Henrique Furtado</h1>
+<h3 align="center">Computer Science Student | DevOps | Cloud | Backend</h3>
 
 <p align="center">
-🚀 Desenvolvedor em formação | Cloud • DevOps • Sistemas Distribuídos
+🚀 Building scalable systems | 💻 Programming | ☁️ Cloud Infrastructure
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 About Me
 
-Sou estudante de **Ciência da Computação** com forte interesse em **infraestrutura de TI, DevOps, cloud computing e desenvolvimento de software**.
+🎓 Computer Science student passionate about technology, software development and infrastructure.
 
-Tenho experiência no desenvolvimento de aplicações completas, como o **App Fun**, uma plataforma de descoberta de eventos com geolocalização, integração com APIs e backend estruturado.
+I have experience developing complete systems such as **App Fun**, a geolocation-based platform for discovering events and connecting people.
 
-Também estudo **virtualização e infraestrutura VMware (vSphere, ESXi, vCenter)** e arquitetura de sistemas distribuídos, buscando sempre evoluir minhas habilidades técnicas e construir soluções escaláveis.
+I also study **distributed systems, cloud infrastructure and virtualization**, especially **VMware ecosystem (vSphere, ESXi, vCenter, vSAN, NSX)**.
 
-📍 Brasília - Brasil
+My focus is evolving into a **DevOps / Cloud Engineer** while maintaining strong programming foundations.
 
----
-
-## 🚀 Tecnologias & Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cs,js,react,nodejs,html,css,git,github,linux,docker,mongodb,firebase,vscode" />
-
-</p>
+📍 Brasília — Brazil
 
 ---
 
-## 🧠 Áreas de interesse
+# 🚀 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+### Infrastructure & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware)
+
+---
+
+# 🧠 Areas of Interest
 
 - Cloud Computing
 - DevOps
-- Sistemas Distribuídos
-- Virtualização
+- Infrastructure Engineering
+- Distributed Systems
+- Virtualization
 - Backend Development
-- Infraestrutura de TI
-- Segurança da Informação
+- Cybersecurity
 
 ---
 
-## 📂 Projetos em destaque
+# 🚀 Featured Projects
 
 ### 🎉 App Fun
-Plataforma para descoberta de eventos com geolocalização.
 
-Tecnologias:
-- React
-- Firebase
-- Google Maps API
-- Node.js
+Platform for discovering events based on geolocation.
 
-Funcionalidades:
-- busca de eventos próximos
-- chat entre usuários
-- dashboards
-- convites para eventos
+Features:
+
+- interactive maps
+- event discovery
+- invitations
+- real time interaction
+
+Technologies used:
+
+React  
+Firebase  
+Google Maps API  
+Node.js
 
 ---
 
 ### 🎬 CineMatch
-Projeto de **sistemas distribuídos** que conecta usuários para escolher filmes em grupo.
 
-Tecnologias:
-- Node.js
-- Socket.IO
-- MongoDB
+Distributed system for choosing movies with friends.
 
-Funcionalidades:
-- matching de filmes
-- comunicação em tempo real
-- sistema de votação
+Technologies:
 
----
+Node.js  
+Socket.IO  
+MongoDB
 
-### 🏫 Escola Noturna
-Sistema de gerenciamento escolar com arquitetura **MVC**.
+Features:
 
-Tecnologias:
-- React
-- JavaScript
-- Node.js
+- real-time voting
+- movie matching system
+- group decision system
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📫 Contato
+# 🔥 GitHub Activity
 
-📧 Email: rickpedrinha@sempreceub.com  
-💼 LinkedIn: https://linkedin.com/in/seulink  
-💻 GitHub: https://github.com/rick-pedrinha
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight"/>
+</p>
 
+---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📫 Contact
+
+GitHub: https://github.com/SEUUSUARIO
+
+LinkedIn: (adicione depois)
+
+Email: (opcional)
+
+---
