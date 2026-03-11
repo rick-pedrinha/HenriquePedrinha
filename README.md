@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./henrique-appfun.jpg" width="260"/>
+</p>
+
 <h1 align="center">Henrique Furtado | Computer Science Student</h1>
 
 <p align="center">
@@ -9,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blueviolet&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=rick-pedrinha&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
@@ -19,6 +23,8 @@
 Sou estudante de **Ciência da Computação** com forte interesse em **infraestrutura de TI, cybersecurity, DevOps, cloud computing e desenvolvimento de software**.
 
 Tenho experiência no desenvolvimento de aplicações completas, como o **App Fun**, uma plataforma de descoberta de eventos com geolocalização, integração com APIs e backend estruturado.
+
+O projeto **App Fun** recebeu **Prêmio Projeto Destaque 2025.2 — Campus Asa Norte (CEUB)**.
 
 Também estudo **virtualização e infraestrutura VMware (vSphere, ESXi, vCenter)** e **arquitetura de sistemas distribuídos**.
 
@@ -171,9 +177,9 @@ Node.js
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rick-pedrinha&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick-pedrinha&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -183,7 +189,7 @@ Node.js
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rick-pedrinha&theme=tokyonight"/>
 
 </p>
 
@@ -197,11 +203,12 @@ Node.js
 
 </p>
 
-
 ---
 
 # 📫 Contato
 
 📧 Email: [rickpedrinha@sempreceub.com](mailto:rickpedrinha@sempreceub.com)
+
 💼 LinkedIn: https://linkedin.com/in/seulink
+
 💻 GitHub: https://github.com/rick-pedrinha
