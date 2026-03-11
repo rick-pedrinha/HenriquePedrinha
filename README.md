@@ -196,6 +196,7 @@ Node.js
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </p>
+![WhatsApp Image 2026-03-11 at 18 32 26](https://github.com/user-attachments/assets/c75cc29e-69d3-4129-81ea-0e6d04975da7)
 
 ---
 
