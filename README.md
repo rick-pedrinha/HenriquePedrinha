@@ -1,101 +1,173 @@
-<h1 align="center">Henrique Furtado</h1>
-<h3 align="center">Computer Science Student | DevOps | Cloud | Backend</h3>
+<h1 align="center">Henrique Furtado | Computer Science Student</h1>
 
 <p align="center">
-🚀 Building scalable systems | 💻 Programming | ☁️ Cloud Infrastructure
+🚀 Software Development • ☁️ Cloud • ⚙️ DevOps • 🔐 Cybersecurity
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Cybersecurity+Student;DevOps+%26+Cloud+Enthusiast;Backend+Developer" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-🎓 Computer Science student passionate about technology, software development and infrastructure.
+Sou estudante de **Ciência da Computação** com forte interesse em **infraestrutura de TI, cybersecurity, DevOps, cloud computing e desenvolvimento de software**.
 
-I have experience developing complete systems such as **App Fun**, a geolocation-based platform for discovering events and connecting people.
+Tenho experiência no desenvolvimento de aplicações completas, como o **App Fun**, uma plataforma de descoberta de eventos com geolocalização, integração com APIs e backend estruturado.
 
-I also study **distributed systems, cloud infrastructure and virtualization**, especially **VMware ecosystem (vSphere, ESXi, vCenter, vSAN, NSX)**.
+Também estudo **virtualização e infraestrutura VMware (vSphere, ESXi, vCenter)** e **arquitetura de sistemas distribuídos**.
 
-My focus is evolving into a **DevOps / Cloud Engineer** while maintaining strong programming foundations.
+Atualmente também realizo estudos em **Cybersecurity e Ethical Hacking através do curso profissional da DESEC Security**, focado em análise de vulnerabilidades, redes e segurança ofensiva.
 
-📍 Brasília — Brazil
-
----
-
-# 🚀 Tech Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-### Infrastructure & Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware)
+📍 Brasília - Brasil
 
 ---
 
-# 🧠 Areas of Interest
+# 💻 Programação
 
-- Cloud Computing
-- DevOps
-- Infrastructure Engineering
-- Distributed Systems
-- Virtualization
-- Backend Development
-- Cybersecurity
+Principais linguagens que estudo e utilizo em projetos:
+
+* C
+* C#
+* Python
+* JavaScript
+* SQL
+
+Áreas aplicadas:
+
+* algoritmos e estruturas de dados
+* desenvolvimento backend
+* scripts e automação
+* aplicações distribuídas
 
 ---
 
-# 🚀 Featured Projects
+# 🔐 Cybersecurity
+
+Estudos focados em **segurança ofensiva, análise de redes e identificação de vulnerabilidades**.
+
+Curso profissional:
+
+🎓 **DESEC Security – Ethical Hacking & Cybersecurity**
+
+Ferramentas utilizadas:
+
+* Kali Linux
+* Wireshark
+* Nmap
+* scanners de vulnerabilidade
+* ferramentas de análise de rede
+
+Tópicos estudados:
+
+* Ethical Hacking
+* Network Security
+* Vulnerability scanning
+* Network analysis
+* Linux security
+
+---
+
+# 🚀 Tecnologias & Ferramentas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cs,python,js,react,nodejs,html,css,git,github,linux,docker,mongodb,firebase,vscode" />
+
+</p>
+
+---
+
+# 🐧 Experiência com Linux
+
+Experiência utilizando ambientes Linux para desenvolvimento, redes e segurança.
+
+Distribuições utilizadas:
+
+* Ubuntu
+* Kali Linux
+* Debian
+
+Conhecimentos incluem:
+
+* terminal Linux
+* ferramentas de rede
+* administração básica de sistemas
+* ambiente de desenvolvimento
+
+---
+
+# 🧠 Áreas de interesse
+
+* Cloud Computing
+* DevOps
+* Sistemas Distribuídos
+* Virtualização
+* Backend Development
+* Infraestrutura de TI
+* Cybersecurity
+* Segurança da Informação
+
+---
+
+# 📂 Projetos em destaque
 
 ### 🎉 App Fun
 
-Platform for discovering events based on geolocation.
+Plataforma para descoberta de eventos com geolocalização.
 
-Features:
+Tecnologias:
 
-- interactive maps
-- event discovery
-- invitations
-- real time interaction
-
-Technologies used:
-
-React  
-Firebase  
-Google Maps API  
+React
+Firebase
+Google Maps API
 Node.js
+
+Funcionalidades:
+
+* busca de eventos próximos
+* chat entre usuários
+* dashboards
+* convites para eventos
 
 ---
 
 ### 🎬 CineMatch
 
-Distributed system for choosing movies with friends.
+Projeto de **sistemas distribuídos** que conecta usuários para escolher filmes em grupo.
 
-Technologies:
+Tecnologias:
 
-Node.js  
-Socket.IO  
+Node.js
+Socket.IO
 MongoDB
 
-Features:
+Funcionalidades:
 
-- real-time voting
-- movie matching system
-- group decision system
+* matching de filmes
+* comunicação em tempo real
+* sistema de votação
 
 ---
 
-# 📊 GitHub Stats
+### 🏫 Escola Noturna
+
+Sistema de gerenciamento escolar com arquitetura **MVC**.
+
+Tecnologias:
+
+React
+JavaScript
+Node.js
+
+---
+
+# 📊 Estatísticas do GitHub
 
 <p align="center">
 
@@ -107,10 +179,12 @@ Features:
 
 ---
 
-# 🔥 GitHub Activity
+# 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -118,17 +192,15 @@ Features:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
-# 📫 Contact
+# 📫 Contato
 
-GitHub: https://github.com/SEUUSUARIO
-
-LinkedIn: (adicione depois)
-
-Email: (opcional)
-
----
+📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
+💼 LinkedIn: https://linkedin.com/in/seulink
+💻 GitHub: https://github.com/seuusuario
