@@ -201,6 +201,6 @@ Node.js
 
 # 📫 Contato
 
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
+📧 Email: [rickpedrinha@sempreceub.com](mailto:rickpedrinha@sempreceub.com)
 💼 LinkedIn: https://linkedin.com/in/seulink
-💻 GitHub: https://github.com/seuusuario
+💻 GitHub: https://github.com/rick-pedrinha
